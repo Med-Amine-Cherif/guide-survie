@@ -64,6 +64,13 @@ const FICHES = [
     texte: "Une incompréhension non traitée en cours devient une heure de travail le soir. Le calcul est vite fait.",
     auteur: "L'équipe pédagogique"
   },
+{
+    titre: "j'ai fin",
+    categorie: "FOOD",
+    texte: "jib mil dar",
+    auteur: "Me myself and i"
+  },
+
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 
